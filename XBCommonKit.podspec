@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/sujinxu123@163.com/XBCommonKit'
+  s.homepage         = 'https://github.com/Qingdao-Budao-Huaxia-Xiaobu-E-Commerce/XBCommonKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sujinxu123@163.com' => 'sujinxu123@163.com' }
-  s.source           = { :git => 'https://github.com/sujinxu123@163.com/XBCommonKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Qingdao-Budao-Huaxia-Xiaobu-E-Commerce/XBCommonKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

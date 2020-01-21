@@ -1,0 +1,6 @@
+framework module Pods_XBCommonKit_Tests {
+  umbrella header "Pods-XBCommonKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - XBCommonKit (0.1.0)
+
+DEPENDENCIES:
+  - XBCommonKit (from `../`)
+
+EXTERNAL SOURCES:
+  XBCommonKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XBCommonKit: fda1c7f0adda24aca997ad28b6d24ce5bd8f1a65
+
+PODFILE CHECKSUM: 08c094f8c5fa1a50cc602fea38494e26a1aa804e
+
+COCOAPODS: 1.8.4
